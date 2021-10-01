@@ -28,7 +28,6 @@ Se explicarán diversas formas de atacar diferentes problemas, en función
 de sus características, centrándose sobre todo en los algoritmos que más se ajusten
 a las características de nuestro problema. Habrá ejemplos prácticos y guías
 implementables por cada asistente.
-
 Los notebooks que usaremos son los siguientes:
   1. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Linear_Regression_Practice.ipynb" target="_blank">Regresión Lineal</a>
   2. <a href="https://colab.research.google.com/github/TheBrainCodeGames/2021_seminars/blob/main/AI/Notebooks/Logistic_Regression_Classification.ipynb" target="_blank">Regresión Logística</a>

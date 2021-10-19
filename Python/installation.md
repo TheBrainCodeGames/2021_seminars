@@ -34,7 +34,7 @@ Por ello, y para evitar conflictos y problemas, se recomienda instalar Python us
 	conda install pip
 	```
 
-<br>
+&nbsp;
 ### Uso de un entorno
 A partir de ahora debemos activar nuestro entorno cada vez que queramos usarlo. Para ello hay que ejecutar el comando del paso 4. Por lo demás, podemos instalar paquetes y usar Python de la misma manera que se haría sin un entorno.
 
@@ -53,7 +53,7 @@ pip install numpy=1.18.1
 Así podemos mantener nuestro entorno controlado y limpio para evitar errores y conflictos entre versiones.
 
 
-<br>
+&nbsp; 
 ### Exportar y compartir entornos
 Conda también nos permite exportar e importar entornos, lo cual es muy útil cuando se trabaja en grupo ya que permite compartir un mismo entorno. Para exportar un entorno se usa el comando:
 

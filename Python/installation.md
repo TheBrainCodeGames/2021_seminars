@@ -64,7 +64,7 @@ conda braincodegamesenv export > environment.yml
 Esto guardaría nuestro entorno braincodegamesenv en el fichero environment.yml, que contendrá la información de todas las librerías y paquetes que estemos utilizando. Otro usuario puede ahora crear su entorno usando este fichero haciendo:
 
 ```
-conda braincodegamesenv create -f environment.yml
+conda env create -n braincodegamesenv -f environment.yml
 ```
 
 De esta manera el nuevo entorno se habrá creado con las mismas librerías (y en la misma versión) que las del entorno original.

@@ -58,7 +58,7 @@ Así podemos mantener nuestro entorno controlado y limpio para evitar errores y 
 Conda también nos permite exportar e importar entornos, lo cual es muy útil cuando se trabaja en grupo ya que permite compartir un mismo entorno. Para exportar un entorno se usa el comando:
 
 ```
-conda braincodegamesenv export > environment.yml
+conda env export > environment.yml -n braincodegamesenv
 ```
 
 Esto guardaría nuestro entorno braincodegamesenv en el fichero environment.yml, que contendrá la información de todas las librerías y paquetes que estemos utilizando. Otro usuario puede ahora crear su entorno usando este fichero haciendo:
